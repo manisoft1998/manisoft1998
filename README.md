@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Manigandan</h1>
-<h3 align="center">A passionate android developer from India</h3>
+# 👋 Hi, I'm Manigandan K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manisoft1998&label=Profile%20views&color=0e75b6&style=flat" alt="manisoft1998" /> </p>
+🚀 **Senior Android Developer** | 5+ Years Experience | Kotlin & Java Enthusiast  
+📍 Chennai, India  
 
-<p align="left"> <a href="https://twitter.com/manisoft98" target="blank"><img src="https://img.shields.io/twitter/follow/manisoft98?logo=twitter&style=for-the-badge" alt="manisoft98" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/manimobiledev)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/manisoft1998)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manisoft98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manisoft98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manigandan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manigandan k" height="30" width="40" /></a>
-</p>
+## 🔥 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I'm a passionate **Android Developer** with 5+ years of experience in designing, developing, and maintaining **enterprise-grade mobile applications**. I specialize in **Kotlin, Java, and MVVM architecture**, focusing on performance, scalability, and seamless user experiences across **mobile, tablet, and TV devices**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manisoft1998&show_icons=true&locale=en&layout=compact" alt="manisoft1998" /></p>
+## 🔧 Tech Stack & Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manisoft1998&show_icons=true&locale=en" alt="manisoft1998" /></p>
+- **Languages:** Kotlin, Java, XML, Google Apps Script  
+- **Frameworks & Libraries:** Jetpack Compose, Coroutines, Dagger 2, Hilt, Koin, Retrofit, Navigation Graph, Live Data, Work Manager, Paging Library  
+- **Databases:** Room, SQLite, Firebase Firestore, Firebase Realtime Database  
+- **APIs & Services:** RESTful APIs, Retrofit, Google Maps, Firebase Authentication, FCM, Crashlytics, Analytics  
+- **Tools:** Android Studio, VS Code, Git, GitHub, Postman, Google Cloud Platform (GCP)  
+- **Other Utilities:** Timber, LeakCanary, Ktlint, Lottie Animation  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manisoft1998&" alt="manisoft1998" /></p>
+## 📱 Notable Projects
 
+### 📌 HAP SFA *(Jan 2024)*
+**Tech Stack:** Kotlin, Android Studio, Room, Work Manager, MVVM  
+✅ Built a **Sales Force Automation** app for managing sales, GST, and TCS tax calculations.  
+✅ Integrated **Bluetooth & USB printing** support for invoice generation.  
+✅ Optimized background tasks using **Work Manager** for real-time location tracking.  
+
+### 📌 HAP Digital Signage *(Sep 2023)*
+**Tech Stack:** Kotlin, Android Studio, ExoPlayer, Coroutines  
+✅ Developed a **Digital Signage App** for Android Smart TVs to display advertisements in **online & offline modes**.  
+✅ Integrated **ExoPlayer** for high-performance video playback.  
+✅ Implemented background **video downloads** using **Coroutines** for a smooth user experience.  
+
+### 📌 HAP Service Ticket *(Mar 2023)*
+**Tech Stack:** Kotlin, Android Studio, Firebase, Navigation Graph, Retrofit  
+✅ Designed a service ticketing system for customers & retailers to **raise & track support tickets**.  
+✅ Integrated **Firebase Cloud Messaging (FCM)** for real-time notifications.  
+✅ Used **Retrofit + Coroutines** for API calls, optimizing responsiveness.  
+
+### 📌 CCMS *(Aug 2020)*
+**Tech Stack:** Java, Android Studio, Room Database, QR Code  
+✅ Implemented a **QR code-based attendance system** with offline data storage.  
+✅ Integrated **push notifications** for real-time updates.  
+✅ Automated **error logging & network tracking** for improved app reliability.  
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisoft1998&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+- 📧 **Email:** mani.mobiledev@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/manimobiledev](https://linkedin.com/in/manimobiledev)  
+- 🖥️ **GitHub:** [github.com/manisoft1998](https://github.com/manisoft1998)  
+
+Let's build something awesome together! 🚀
